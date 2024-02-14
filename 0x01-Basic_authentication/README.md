@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Authorization
 The HTTP Authorization request header can be used to provide credentials that authenticate a user agent with a server, allowing access to a protected resource.
 
@@ -75,3 +76,7 @@ Nonce count. The hexadecimal count of requests in which the client has sent the 
 
 userhash Optional
 "true" if the username has been hashed. "false" by default.
+=======
+Authentication
+
+>>>>>>> 85858db180df02d4f89c57f3f1c7fbf78085f0a1
