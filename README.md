@@ -1,4 +1,4 @@
-What is personally identifiable information (PII)?
+ What is personally identifiable information (PII)?
 PII is often referenced by US government agencies and non-governmental organizations. Yet the US lacks one overriding law about PII, so your understanding of PII may differ depending on your particular situation.  
 
 The most common definition is provided by the National Institute of Standards and Technology (NIST).
